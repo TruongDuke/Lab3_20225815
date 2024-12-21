@@ -1,0 +1,1 @@
+Nếu không xử lý ngoại lệ khi gọi play(), chương trình có thể bị dừng đột ngột, mất cơ hội ghi log lỗi, tài nguyên không được giải phóng đúng cách, và gây trải nghiệm xấu cho người dùng. Cần dùng try-catch để đảm bảo ổn định và phục hồi chương trình.
